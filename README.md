@@ -37,7 +37,7 @@ This project applies the following core machine learning and data science method
 - Feature transformation
 
 ### Machine Learning Model
-- Random Forest
+- Ensemble Learning (AdaBoost Classifier)
 
 ### Model Evaluation
 - F1-score
