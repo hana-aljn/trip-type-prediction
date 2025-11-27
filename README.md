@@ -2,13 +2,11 @@
 
 This project focuses on predicting the **type of trip** based on structured tabular data. The goal is to build a Machine Learning model that can classify trips using patterns found in multiple input featureS.
 
----
-
 The project is implemented in a Jupyter Notebook (`.ipynb`) and walks through the full machine learning pipeline, from data preprocessing to model evaluation.
 
 ---
 
-## 📌 Project Objectives
+## 📌 Project Objectives:
 
 - Clean and preprocess raw trip-related data
 - Explore relationships between features and target labels
@@ -16,7 +14,7 @@ The project is implemented in a Jupyter Notebook (`.ipynb`) and walks through th
 - Evaluate model performance using standard metrics
 
 ---
-**📦 Libraries & Tools Used:**
+## 📦 Libraries & Tools Used:
 
 The following Python packages are used in this project:
 
@@ -26,7 +24,7 @@ The following Python packages are used in this project:
 
 ---
 
-## 🧠 Machine Learning Methods Used
+## 🧠 Machine Learning Methods Used:
 
 This project applies the following core machine learning and data science methods:
 
